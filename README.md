@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 MERN & Full-Stack Development<br><br>👯 Open Source & Gen AI Collaboration<br><br>🤝 Scalable Apps & ML Help<br><br>🌱 Learning Gen AI & Machine Learning<br><br>💬 React.js, Node.js, MongoDB<br><br>⚡ Debugging enthusiast 😄
+MERN & Full-Stack Development ||  Open Source & Gen AI Collaboration || Learning Gen AI & Machine Learning
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh__kumarr__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshhkumarr0@gmail.com) 
